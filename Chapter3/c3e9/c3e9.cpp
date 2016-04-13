@@ -13,4 +13,4 @@ int main() {
 } ///:~
 
 //When static is applied to a function name or to a variable that is outside of all functions, it means “This name is unavailable outside of this file.
-//When you remove static keyword, it is a global variable.
+//When you remove static keyword, the variable be available outside of this file.
